@@ -15,10 +15,9 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-Java         1 hr 54 mins    █████████████████████▒░░░   85.04 % 
-Batchfile    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-XML          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Java         1 hr 10 mins    █████████████████████▓░░░   86.71 % 
+XML          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Markdown     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 <!--END_SECTION:waka-->
