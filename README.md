@@ -15,6 +15,7 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java   36 mins         ███████████████████████░░   92.13 % 
+XML    3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 ```
 <!--END_SECTION:waka-->
