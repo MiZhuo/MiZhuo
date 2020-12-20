@@ -15,8 +15,9 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     4 hrs 43 mins   ██████████████████████▓░░   91.04 % 
-Java         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Markdown     3 hrs           ███████████████▒░░░░░░░░░   61.12 % 
+Java         1 hr 43 mins    ████████▓░░░░░░░░░░░░░░░░   34.92 % 
+Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 <!--END_SECTION:waka-->
