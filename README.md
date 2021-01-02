@@ -15,10 +15,10 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-Java         1 hr 20 mins    ███████████░░░░░░░░░░░░░░   43.76 % 
-YAML         1 hr 1 min      ████████▒░░░░░░░░░░░░░░░░   33.52 % 
-Markdown     18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-XML          17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Properties   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Java         1 hr 24 mins    ███████████▒░░░░░░░░░░░░░   44.84 % 
+YAML         1 hr 1 min      ████████░░░░░░░░░░░░░░░░░   32.66 % 
+Markdown     18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+XML          17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Properties   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 <!--END_SECTION:waka-->
