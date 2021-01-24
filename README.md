@@ -15,8 +15,8 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-Java         27 mins         █████████████████▓░░░░░░░   70.39 % 
-YAML         6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-XML          5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Java         16 mins         ███████████████░░░░░░░░░░   59.42 % 
+YAML         6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.08 % 
+XML          5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.28 % 
 ```
 <!--END_SECTION:waka-->
