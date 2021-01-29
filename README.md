@@ -15,6 +15,6 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-YAML         5 mins          █████████████████████▓░░░   86.20 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
