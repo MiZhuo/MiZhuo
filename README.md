@@ -15,6 +15,6 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+
 ```
 <!--END_SECTION:waka-->
