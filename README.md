@@ -15,10 +15,10 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       2 hrs 43 mins   ███████████▓░░░░░░░░░░░░░   46.02 % 
-JavaScript   1 hr 10 mins    █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Java         56 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-TypeScript   34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-JSON         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Vue.js       3 hrs 12 mins   ████████████▒░░░░░░░░░░░░   49.91 % 
+JavaScript   1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Java         56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+TypeScript   34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+JSON         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 ```
 <!--END_SECTION:waka-->
