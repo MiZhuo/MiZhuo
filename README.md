@@ -15,6 +15,6 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       57 mins         ████████████████████████▓   99.06 % 
+Vue.js       29 mins         █████████████████████████   99.90 % 
 ```
 <!--END_SECTION:waka-->
