@@ -15,6 +15,6 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js       1 hr 19 mins    █████████████████████████   99.99 % 
 ```
 <!--END_SECTION:waka-->
