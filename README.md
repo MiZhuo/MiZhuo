@@ -15,8 +15,8 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       1 hr 39 mins    ██████████████████░░░░░░░   72.66 % 
-Java         32 mins         ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Vue.js       2 hrs 5 mins    ███████████████████▒░░░░░   76.91 % 
+Java         32 mins         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 ```
 <!--END_SECTION:waka-->
