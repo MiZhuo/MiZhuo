@@ -15,6 +15,6 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-Java         13 mins         ███████████████████████▓░   94.64 % 
+Java         13 mins         ███████████████████████▓░   94.96 % 
 ```
 <!--END_SECTION:waka-->
