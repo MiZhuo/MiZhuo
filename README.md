@@ -15,9 +15,9 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   21 mins         ███████████████░░░░░░░░░░   60.00 % 
-JSON         10 mins         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-TypeScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+JavaScript   33 mins         ██████████▒░░░░░░░░░░░░░░   41.95 % 
+TypeScript   19 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.85 % 
+JSON         17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.83 % 
+Markdown     8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 ```
 <!--END_SECTION:waka-->
