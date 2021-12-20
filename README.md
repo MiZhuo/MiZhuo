@@ -15,7 +15,6 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   25 mins         ███████████████████▒░░░░░   77.06 % 
-JavaScript   6 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.89 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
