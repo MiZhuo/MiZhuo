@@ -16,7 +16,7 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          █████████████████████████   100.00 %
+JavaScript   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
