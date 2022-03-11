@@ -16,7 +16,10 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   15 mins         █████████████████████████   100.00 %
+JavaScript   16 mins         ██████████████████████▒░░   89.66 %
+HTML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+Vue.js       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
