@@ -16,12 +16,10 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 <!--START_SECTION:waka-->
 
 ```text
-Java              54 mins         ███████████████████▓░░░░░   78.96 %
-XML               6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-GitIgnore file    6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-protobuf          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Java              22 mins         ███████████████████████▓░   94.81 %
+XML               0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+protobuf          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
