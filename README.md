@@ -16,8 +16,7 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 <!--START_SECTION:waka-->
 
 ```text
-Bash    5 mins          ████████████████████████▒   97.94 %
-Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
