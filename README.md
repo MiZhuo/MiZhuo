@@ -5,8 +5,8 @@
 I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 - 🔭 JAVA/Vue.js/JavaScript/C++/Shell
-- 🌱 I’m currently learning `Elasticsearch`
-- 🤔 I'm thinking about how to become stronger
+- 🌱 I keep growing
+- 🤔 Now promoted to super dad
 - 💬 Ask me about wulibin0809@gmail.com
 - 📫 How to reach me: www.mizhuo.site
 
