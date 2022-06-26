@@ -7,7 +7,7 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 - 🔭 JAVA/Vue.js/JavaScript/C++/Shell
 - 🌱 I keep growing
 - 🤔 Now promoted to super dad
-- 💬 Ask me about wulibin0809@gmail.com
+- 💬 Ask me about mizhuo809@gmail.com
 - 📫 How to reach me: www.mizhuo.site
 
 ---
