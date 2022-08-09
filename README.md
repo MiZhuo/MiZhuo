@@ -16,11 +16,11 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 <!--START_SECTION:waka-->
 
 ```text
-Groovy       14 mins         █████████░░░░░░░░░░░░░░░░   36.10 %
-Java         9 mins          ██████░░░░░░░░░░░░░░░░░░░   24.38 %
-JSON         9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
-Markdown     6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Java         27 mins         ███████████▓░░░░░░░░░░░░░   47.24 %
+Groovy       14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
+JSON         9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+Markdown     6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
