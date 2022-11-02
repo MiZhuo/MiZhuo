@@ -16,7 +16,11 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Groovy           41 mins         █████████████▒░░░░░░░░░░░   53.53 %
+Java             34 mins         ███████████░░░░░░░░░░░░░░   43.59 %
+YAML             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
