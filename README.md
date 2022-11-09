@@ -16,12 +16,12 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 <!--START_SECTION:waka-->
 
 ```text
-Groovy           3 hrs 14 mins   ████████████▓░░░░░░░░░░░░   51.25 %
-Java             2 hrs 23 mins   █████████▒░░░░░░░░░░░░░░░   37.76 %
-XML              25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Properties       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-YAML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-CLASS            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Groovy         3 hrs 48 mins   ████████████░░░░░░░░░░░░░   47.73 %
+Java           2 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   32.88 %
+XML            48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+YAML           29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Properties     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+CLASS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
