@@ -16,8 +16,8 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 <!--START_SECTION:waka-->
 
 ```text
-YAML       2 hrs 37 mins   ████████████████░░░░░░░░░   63.63 %
-Markdown   1 hr 29 mins    █████████░░░░░░░░░░░░░░░░   36.37 %
+YAML       2 hrs 52 mins   █████████████████░░░░░░░░   67.94 %
+Markdown   1 hr 21 mins    ████████░░░░░░░░░░░░░░░░░   32.06 %
 ```
 
 <!--END_SECTION:waka-->
