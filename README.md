@@ -16,7 +16,11 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   0 secs          █████████████████████████   100.00 %
+Groovy              36 mins         ███████████▒░░░░░░░░░░░░░   45.32 %
+XML                 18 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
+GitIgnore file      16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+Kotlin              5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+GUI_DESIGNER_FORM   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 ```
 
 <!--END_SECTION:waka-->
