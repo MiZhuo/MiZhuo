@@ -16,11 +16,11 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 <!--START_SECTION:waka-->
 
 ```text
-Groovy              36 mins         ███████████▒░░░░░░░░░░░░░   45.32 %
-XML                 18 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
-GitIgnore file      16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-Kotlin              5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-GUI_DESIGNER_FORM   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Groovy              36 mins         ███████████▒░░░░░░░░░░░░░   45.41 %
+XML                 18 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
+GitIgnore file      16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.14 %
+Kotlin              5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+GUI_DESIGNER_FORM   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 ```
 
 <!--END_SECTION:waka-->
