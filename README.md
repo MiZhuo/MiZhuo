@@ -15,7 +15,7 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 YAML   16 mins         █████████████████████████   100.00 %
 ```
 
