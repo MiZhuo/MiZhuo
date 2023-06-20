@@ -8,7 +8,7 @@ I am mizhuo,An ordinary programmer,I am in Hangzhou now.
 - 🌱 I keep growing
 - 🤔 Now promoted to super dad
 - 💬 Ask me about mizhuo809@gmail.com
-- 📫 How to reach me: www.mizhuo.site
+- 📫 How to reach me: www.mizhuo.fun
 
 ---
 📊 **Weekly development breakdown**
